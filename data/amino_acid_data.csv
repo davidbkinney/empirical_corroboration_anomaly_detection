@@ -1,0 +1,244 @@
+Sample ,Sample Type,Reference,Gly,D&L-Ser,D&L-Ala,D&L-Asp,D&L-Glu,D&L-valine,Type,EE=1 means fully racemic
+Murchison Meteorite,CM,Botta et al. 2002,0.43,0.06,0.25,0.06,0.2,0,AC_High,Average EE = 0.66
+Murchison Meteorite,CM,Botta et al. 2007,0.4,0.06,0.29,0.08,0.17,0,AP,Average EE = 0.85
+Murchison Meteorite,CM,Burton et al. 2015,0.34,0.03,0.27,0.07,0.18,0.1,AC_High,Average EE = 0.6
+Murchison Meteorite,CM,Cronin and Pizzarello 1983,0.39,0,0.2,0.08,0.27,0.06,AC_High,EE not measured 
+Murchison Meteorite,CM,Cronin and Pizzarello 1983,0.44,0,0.24,0.04,0.21,0.07,AC_High,EE not measured 
+Murchison Meteorite,CM,Cronin and Pizzarello 1983,0.21,0,0.22,0.07,0.43,0.07,AC_High,EE not measured 
+Murchison Meteorite,CM,Engel and Nagy 1983,0.36,0,0.14,0.12,0.28,0.1,AC_High,EE not measured 
+Murchison Meteorite,CM,Engel and Nagy 1983,0.34,0,0.14,0.17,0.32,0.04,AC_High,EE not measured 
+Murchison Meteorite,CM,Glavin et al 2006,0.41,0.06,0.26,0.05,0.14,0.07,AC_Low,Average EE = 0.83 but Ser <0.8 and Val <0.5
+Murchison Meteorite,CM,Kminek et al 2002,0.46,0,0.26,0.07,0.21,0,AC_High,Average EE = 0.57
+Murray Meteorite,CM,Botta et al. 2002,0.53,0.02,0.32,0.03,0.1,0,AC_Low,Average EE = 0.75 but Asp <0.8 and Glu =0.5
+Nogoya Meteorite,CM,Botta et al. 2002,0.3,0.09,0.12,0.16,0.33,0,AC_High,Average EE = 0.32
+Mighei Meteorite,CM,Botta et al. 2002,0.38,0.03,0.28,0.12,0.19,0,AC_Low,Average EE = 0.73 but Ala =0.7 and Glu =0.4
+Essebi Meteorite,CM,Botta et al. 2002,0.42,0.05,0.2,0.17,0.15,0,AC_High,Average EE = 0.6
+ALH 88045 Meteorite,CM,Botta et al. 2002,0.19,0.09,0.52,0.09,0.11,0,AC_High,Average EE = 0.5
+MET 01070 Meteorite,CM,Botta et al. 2007,0.19,0.05,0.55,0.1,0.11,0,AC_High,Average EE = 0.4
+LAP 02277 Meteorite,CM,Botta et al. 2007,0.08,0.14,0.6,0.05,0.12,0,AC_High,Average EE = 0.5
+SM2 Meteorite,CM2,Burton et al. 2014,0.28,0.19,0.09,0.14,0.23,0.08,AC_High,Average EE = 0.6
+SM12 Meteorite,CM2,Burton et al. 2014,0.18,0.13,0.1,0.12,0.38,0.1,AC_High,Average EE = 0.3
+SM51 Meteorite,CM3,Burton et al. 2014,0.12,0.12,0.1,0.18,0.36,0.11,AC_High,Average EE = 0.3
+LEW 90500 Meteorite,CM2,Galvin et al 2006,0.42,0.13,0.14,0.08,0.18,0.04,AC_Low,All EE >0.8 but EE val =0.47
+ALH 83100 Meteorite,CM2,Glavin et al 2006,0.45,0.01,0.36,0.11,0.07,0,AC_Low,Average EE = 0.8 but Asp = 0.67
+Cold Bokkeveld,CM2,Kaplan et al 1963,0.32,0.16,0.14,0.17,0.21,0,AC_High,EE not measured 
+Warrenton Meteorite,CM3,Kaplan et al 1963,0.16,0.31,0.15,0.11,0.22,0.04,AC_High,EE not measured 
+Lance Meteorite,CM3,Kaplan et al 1963,0.22,0.31,0.15,0.09,0.2,0.03,AC_High,EE not measured 
+Felix Meteorite,CM3,Kaplan et al 1963,0.21,0.4,0.18,0,0.18,0.04,AC_High,EE not measured 
+Mokoia Meteorite,CM3,Kaplan et al 1963,0.22,0.27,0.1,0.13,0.22,0.07,AC_High,EE not measured 
+Mokoia Meteorite (chondrule),CM3,Kaplan et al 1963,0.41,0.29,0.24,0,0.05,0,AC_High,EE not measured 
+Paris meteorite (non-hydrolyzed),CM,Martins et al.2015,0.56,0,0.12,0.03,0.22,0.07,AC_Low,Average EE = 0.8 but Asp & Glu = 0.7
+Paris meteorite (hydrolyzed),CM,Martins et al.2015,0.62,0,0.13,0.03,0.14,0.09,AC_Low,Average EE = 0.8 but Asp & Glu = 0.7
+Bells Meteorite,CM2,Monroe and Pizzarello 2011,0.37,0,0.19,0,0.41,0.03,AC_High,EE low and only measured for 2 AA
+Yamato-74662 Meteorite (interior),CM2 ,Shimoyama and Ponnamperuma 1979,0.52,0,0.24,0.03,0.12,0.08,AC_High,EE not measured 
+Yamato-74662 Meteorite (exterior),CM2 ,Shimoyama and Ponnamperuma 1979,0.5,0,0.23,0.03,0.14,0.1,AC_High,EE not measured 
+791198.22 Meteorite,CM2 ,Shimoyama et al 1985,0.48,0.02,0.29,0.04,0.07,0.11,AC_High,EE not measured 
+791198.73 Meteorite,CM2 ,Shimoyama et al 1985,0.47,0.02,0.28,0.04,0.09,0.1,AC_High,EE not measured 
+Orgueil Meteorite,CI,Botta et al. 2002,0.67,0.05,0.13,0.08,0.07,0,AC_High,Average EE = 0.58
+Orgueil Meteorite,CI,Botta et al. 2007,0.51,0.11,0.18,0.09,0.1,0,AC_High,Average EE = 0.7
+Orgueil Meteorite,CI,Kaplan et al 1963,0.23,0.31,0.17,0.07,0.05,0.16,AC_High,EE not measured 
+Orgueil Meteorite,CI,Kminek et al. 2002,0.7,0,0.14,0.08,0.08,0,AC_High,Average EE = 0.6
+Ivuna Meteorite,CI,Botta et al. 2002,0.38,0.13,0.15,0.11,0.23,0,AC_High,Average EE = 0.2
+Renazzo Meteorite,CR,Botta et al. 2002,0.37,0.08,0.07,0.09,0.38,0,AC_High,Average EE = 0.2
+EET 92042 Meteorite,CR2,Martins et al.2007,0.3,0.01,0.53,0.01,0.07,0.08,AC_Low,Average EE = 0.87 but Glu =0.57
+GRA 95229 Meteorite ,CR3,Martins et al 2007,0.32,0.01,0.56,0.01,0.04,0.07,AP,Average EE = 0.9
+GRO 95577 Meteorite,CR1,Martins et al.2007,0.29,0.11,0.37,0.07,0.12,0.05,AC_High,Average EE = 0.6
+Allende Meteorite,CV3,Botta et al. 2002,0.36,0.19,0.1,0.08,0.26,0,AC_High,Average EE = 0.04
+Tagish Lake Meteorite,Unclassified,Botta et al. 2002,0.22,0,0.14,0.14,0.49,0,AC_High,Average EE = 0.1
+Tagish Lake Meteorite,Unclassified,Kminek et al 2002,0.22,0,0.14,0.14,0.49,0,AC_High,Average EE = 0.1
+Chainpur Meteorite,LL,Chan et al. 2012,0.23,0,0.08,0.05,0.54,0.09,AC_High,Average EE = 0.47
+Bishunpur Meteorite,LL,Chan et al. 2012,0.34,0,0.12,0.06,0.25,0.22,AC_High,Average EE = 0.58
+NWA 5956 Meteorite,CK3,Burton et al. 2015,0.28,0.17,0.16,0.1,0.27,0.03,AC_High,Average EE = 0.6
+LAR 04318 Meteorite,CK4,Burton et al. 2015,0.29,0.3,0.18,0.09,0.06,0.08,AC_High,Average EE = 0.4
+ALH 85002 Meteorite,CK4,Burton et al. 2015,0.29,0.32,0.16,0.09,0.07,0.07,AC_High,Average EE = 0.4
+PCA 82500 Meteorite,CK4/5,Burton et al. 2015,0.42,0.18,0.1,0.09,0.16,0.06,AC_High,Average EE = 0.4
+EET 92002 Meteorite,CK5,Burton et al. 2015,0.48,0.07,0.09,0.06,0.23,0.06,AC_High,Average EE = 0.4
+LEW 87009 Meteorite,CK6,Burton et al. 2015,0.73,0.04,0.02,0.05,0.15,0.02,AC_High,Average EE = 0.5
+LAR 06872 Meteorite,CK6,Burton et al. 2015,0.44,0.25,0.1,0.07,0.06,0.08,AC_High,Average EE = 0.3
+ALH 85085 Meteorite,CH3,Burton et al. 2013,0.48,0.03,0.19,0.04,0.22,0.05,AC_High,EE low in 4 AA
+PCA 91467 Meteorite,CH3,Burton et al. 2013,0.71,0.02,0.07,0.05,0.12,0.02,AC_High,EE low in 4 AA
+PAT 91546 Meteorite,CH3,Burton et al. 2013,0.7,0.03,0.09,0.05,0.12,0.01,AC_High,EE low in 3 AA
+BJURBOLE Meteorite,CH3,Kaplan et al 1963,0.5,0.17,0.2,0.03,0.1,0,AC_High,EE not measured 
+MIL 05082 Meteorite,CB,Burton et al. 2013,0.63,0.02,0.19,0.06,0.07,0.02,AC_Low,Average EE = 0.86 but Ser =0.4; Glu=0.7; Avl =0.5
+MIL 07411 Meteorite,CB,Burton et al. 2013,0.33,0.06,0.22,0.1,0.22,0.06,AC_High,EE low in most AA
+MAC 02675 Meteorite,CB,Burton et al. 2013,0.25,0.18,0.09,0.11,0.32,0.06,AC_High,Average EE = 0.5
+RICHARDTON Meteorite,CB,Kaplan et al 1963,0.29,0.28,0.13,0.13,0.11,0.05,AC_High,EE not measured 
+LAP 03834 Meteorite,R3,Burton et al. 2015,0.3,0.3,0.16,0.09,0.07,0.07,AC_High,EE low in most AA
+Colony Meteorite,CO,Chan et al. 2012,0.43,0,0.15,0.07,0.24,0.11,AC_High,Average EE = 0.32
+Ornans Meteorite,CO,Chan et al. 2012,0.43,0,0.1,0.04,0.24,0.2,AC_High,Average EE = 0.5
+Karoonda Meteorite,CO,Kaplan et al 1963,0.24,0.33,0.17,0.11,0.14,0,AC_High,EE not measured 
+Almahata Sitta Meteorite,Ureilite,Glavin et al 2006,0.6,0.02,0.19,0.07,0.1,0.02,AC_High,EE low in 3 AA
+Norvato Meteorite,L6 (Light),Jenniskens et al 2014,0.17,0.19,0.06,0.14,0.37,0.07,AC_High,Average EE = 0.2
+Norvato Meteorite,L6 (Dark),Jenniskens et al 2014,0.12,0.22,0.09,0.12,0.4,0.04,AC_High,Average EE = 0.2
+Abee Meteorite,CE,Kaplan et al 1963,0.35,0.25,0.12,0.08,0.2,0,AC_High,EE not measured 
+Norton County Meteorite,CE,Kaplan et al 1963,0.2,0.31,0.14,0.14,0.18,0.04,AC_High,EE not measured 
+Hvittis Meteorite,CE,Kaplan et al 1963,0.06,0.61,0.29,0.02,0.02,0.01,AC_High,EE not measured 
+Bennu,Asteroid,Glavin et al 2024,0.81,0.01,0.13,0.04,0,0,AP,
+Ryugu,Asteroid,Parker et al 2023,0.63,0.2,0.06,0.1,0.01,0,AP,
+Ryugu,Asteroid,Parker et al 2023,0.62,0.32,0.03,0.03,0,0,AP,
+Ryugu,Asteroid,Parker et al 2023,0.76,0,0.21,0.03,0,0,AP,
+Ryugu,Asteroid,Parker et al 2023,0.48,0.31,0.17,0.03,0,0,AP,
+Titan analog,Tholin,Cleaves et al.,0.86,0.01,0.05,0.06,0.02,0,AP,
+Titan analog,Tholin,Cleaves et al.,0.67,0.02,0.2,0.05,0.07,0,AP,
+Titan analog,Tholin,Cleaves et al.,0.86,0.01,0.08,0.03,0.03,0,AP,
+Titan analog,Tholin,Khare and Sagan,0.57,0.13,0.16,0.12,0.02,0,AP,
+Triton analog,Tholin,McDonald et al. 1994,0.71,0,0.09,0.15,0.05,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.97,0,0,0.02,0,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.98,0.01,0,0.01,0,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.96,0,0.01,0.03,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.92,0.01,0.02,0.04,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.95,0,0.01,0.04,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.93,0.01,0.03,0.03,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.95,0,0.01,0.03,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.93,0.01,0.03,0.02,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.95,0,0.01,0.03,0.01,0,AP,
+Lab analog,Hydrothermal,Hennet et al. 1992,0.94,0,0.04,0.02,0.01,0,AP,
+Lab analog,Hydrothermal,Holm and Anderson 1995,0.88,0,0.08,0.03,0.01,0,AP,
+Lab analog,Hydrothermal,Holm and Anderson 1995,0.64,0,0.35,0,0.01,0,AP,
+Natural sample,Hydrolized/desalted E. Coli,Aubrey 2008,0.27,0.46,0.16,0,0,0.11,B,
+Natural sample,S.B. Gypsum,Aubrey 2008,0.22,0.44,0.21,0.01,0.02,0.1,B,
+Natural sample,A.D. Soil,Aubrey 2008,0.17,0.49,0.05,0.02,0.28,0,B,
+Natural sample,A.B. Gypsum,Aubrey 2008,0.03,0.1,0.03,0.45,0.38,0,B,
+Natural sample,R.S. Anhydrite,Aubrey 2008,0.02,0.02,0.34,0,0.62,0,B,
+Natural sample,H.C. Gypsum,Aubrey 2008,0.01,0.06,0.61,0.2,0.12,0,B,
+Natural sample,P.V. Gypsum,Aubrey 2008,0,0.01,0.01,0.02,0.95,0,B,
+Natural sample,Salt Lake Gypsum 1A,Aubrey 2008,0.2,0.15,0.12,0.25,0.25,0.03,B,
+Natural sample,Salt Lake Gypsum 1B,Aubrey 2008,0.2,0.16,0.12,0.25,0.25,0.02,B,
+Natural sample,Salt Lake Gypsum 1C,Aubrey 2008,0.14,0.15,0.1,0.24,0.23,0.15,B,
+Natural sample,Salt Lake Gypsum 1D,Aubrey 2008,0.14,0.15,0.1,0.24,0.23,0.15,B,
+Natural sample,Salt Lake Gypsum 2A,Aubrey 2008,0.27,0.15,0.12,0.21,0.24,0.01,B,
+Natural sample,Salt Lake Gypsum 2B,Aubrey 2008,0.21,0.16,0.12,0.23,0.27,0.01,B,
+Natural sample,Salt Lake Gypsum 7,Aubrey 2008,0.12,0.15,0.07,0.25,0.27,0.13,B,
+Natural sample,Salt Lake Jarosite 4,Aubrey 2008,0.28,0.23,0.08,0.12,0.29,0,B,
+Natural sample,Salt Lake Jarosite 5,Aubrey 2008,0.25,0.18,0.1,0.1,0.21,0.16,B,
+Natural sample,Salt Lake Jarosite 8,Aubrey 2008,0.2,0.16,0.1,0.15,0.22,0.17,B,
+Natural sample,Salt Lake Alunite 6,Aubrey 2008,0.31,0.16,0.12,0.05,0.22,0.13,B,
+Natural sample,S.C Soil,Aubrey 2008,0.33,0.16,0.08,0.19,0.2,0.04,B,
+Natural sample,S.C Bulk Ironstone,Aubrey 2008,0.24,0.28,0.05,0.12,0.16,0.15,B,
+Natural sample,UCSD Canyon Bulk Ironstone,Aubrey 2008,0.19,0.15,0.1,0.3,0.16,0.09,B,
+Natural sample,S.C Core,Aubrey 2008,0.16,0.18,0.08,0.14,0.25,0.18,B,
+Natural sample,P.L Core,Aubrey 2008,0.2,0.22,0.09,0.13,0.22,0.14,B,
+Natural sample,UCSD Canyon Core,Aubrey 2008,0.26,0.21,0.1,0.1,0.21,0.12,B,
+Natural sample,Eastgate Core,Aubrey 2008,0.18,0.16,0.08,0.11,0.2,0.26,B,
+Natural sample,Convoy Core,Aubrey 2008,0.19,0.22,0.07,0.1,0.22,0.19,B,
+Natural sample,C.M Core,Aubrey 2008,0.19,0.26,0.09,0.1,0.22,0.14,B,
+Natural sample,UCSD Canyon Scrapings >20µM,Aubrey 2008,0.27,0.19,0.09,0.1,0.16,0.19,B,
+Natural sample,UCSD Canyon Scrapings <20µM,Aubrey 2008,0.21,0.2,0.17,0.08,0.18,0.16,B,
+Natural sample,S.C Scrapings Mag,Aubrey 2008,0.4,0.23,0.17,0,0.01,0.18,B,
+Natural sample,S.C Scrapings Non-Mag,Aubrey 2008,0.33,0.18,0.13,0.12,0.12,0.13,B,
+Natural sample,COM-120-Sup,Aubrey 2008,0.22,0.13,0.15,0.19,0.31,0,B,
+Natural sample,COM-120-G,Aubrey 2008,0.19,0.2,0.1,0.22,0.29,0,B,
+Natural sample,COM-120-W,Aubrey 2008,0.26,0.1,0.14,0.18,0.31,0,B,
+Natural sample,945-36-Sup,Aubrey 2008,0.27,0.11,0.18,0.17,0.27,0,B,
+Natural sample,945-36-C1,Aubrey 2008,0.22,0.18,0.18,0.19,0.23,0,B,
+Natural sample,945-36-F2,Aubrey 2008,0.21,0.22,0.14,0.17,0.25,0,B,
+Natural sample,945-36-Y,Aubrey 2008,0.17,0.2,0.15,0.18,0.31,0,B,
+Natural sample,834-560-Y,Aubrey 2008,0.25,0.09,0.17,0.19,0.3,0,B,
+Natural sample,834-560-W,Aubrey 2008,0.28,0.09,0.17,0.18,0.28,0,B,
+Natural sample,834-560-R,Aubrey 2008,0.27,0.15,0.14,0.17,0.26,0,B,
+Natural sample,867-110-R,Aubrey 2008,0.27,0.09,0.15,0.19,0.3,0,B,
+Natural sample,834-557-B,Aubrey 2008,0.18,0.14,0.1,0.3,0.27,0,B,
+Natural sample,834-557-W,Aubrey 2008,0.26,0.14,0.11,0.25,0.24,0,B,
+Natural sample,834-557-R,Aubrey 2008,0.34,0.1,0.13,0.16,0.27,0,B,
+Natural sample,GG-680-Sup,Aubrey 2008,0.26,0.1,0.2,0.16,0.29,0,B,
+Natural sample,GG-680-B,Aubrey 2008,0.18,0.09,0.23,0.19,0.31,0,B,
+Natural sample,GG-680-W,Aubrey 2008,0.31,0.07,0.19,0.16,0.27,0,B,
+Natural sample,40-AB1,Aubrey 2008,0.02,0.78,0.09,0.03,0.08,0,B,
+Natural sample,40-A2,Aubrey 2008,0.01,0.8,0.08,0.03,0.08,0,B,
+Natural sample,40-B2,Aubrey 2008,0.09,0.18,0.18,0.18,0.38,0,B,
+Natural sample,40-C1,Aubrey 2008,0.09,0.18,0.38,0.18,0.18,0,B,
+Natural sample,44-A1,Aubrey 2008,0.16,0.28,0.07,0.1,0.39,0,B,
+Natural sample,44-A2,Aubrey 2008,0.13,0.28,0.05,0.12,0.42,0,B,
+Natural sample,44-B1,Aubrey 2008,0,0.74,0.08,0.01,0.17,0,B,
+Natural sample,44-B2,Aubrey 2008,0.19,0.5,0.04,0.02,0.24,0,B,
+Natural sample,44-C1,Aubrey 2008,0.03,0.06,0.79,0.06,0.06,0,B,
+Natural sample,54-A1,Aubrey 2008,0.12,0.32,0.06,0.09,0.4,0,B,
+Natural sample,54-A2,Aubrey 2008,0.15,0.25,0.07,0.15,0.37,0,B,
+Natural sample,54-A3,Aubrey 2008,0.22,0.24,0.11,0.2,0.24,0,B,
+Natural sample,54-A4,Aubrey 2008,0.23,0.25,0.1,0.19,0.23,0,B,
+Natural sample,57-A1,Aubrey 2008,0.11,0.34,0.04,0.07,0.44,0,B,
+Natural sample,57-A2,Aubrey 2008,0.08,0.29,0.07,0.12,0.44,0,B,
+Natural sample,57-A3,Aubrey 2008,0.13,0.26,0.06,0.2,0.36,0,B,
+Natural sample,60-A1,Aubrey 2008,0.1,0.29,0.2,0.2,0.2,0,B,
+Natural sample,60-B1,Aubrey 2008,0.08,0.3,0.22,0.17,0.22,0,B,
+Natural sample,60-B2,Aubrey 2008,0.19,0.36,0.06,0.1,0.29,0,B,
+Natural sample,60-C1,Aubrey 2008,0.03,0.39,0.11,0.06,0.4,0,B,
+Natural sample,GY-01,Aubrey 2008,0.08,0.61,0.08,0.02,0.21,0,B,
+Natural sample,GY-02,Aubrey 2008,0.02,0.32,0.05,0.15,0.45,0,B,
+Natural sample,SP-000,Aubrey 2008,0.06,0.18,0.02,0.64,0.1,0,B,
+Natural sample,SP-088,Aubrey 2008,0.11,0.22,0.22,0.22,0.22,0,B,
+Natural sample,SP-136,Aubrey 2008,0.26,0.1,0.37,0.16,0.12,0,B,
+Natural sample,40AB1,Aubrey 2008,0.37,0.04,0.23,0.3,0.06,0,B,
+Natural sample,40A2,Aubrey 2008,0.3,0.16,0.19,0.29,0.06,0,B,
+Natural sample,40C1,Aubrey 2008,0.61,0.39,0,0,0,0,B,
+Natural sample,44A1,Aubrey 2008,0.28,0.36,0.08,0.24,0.04,0,B,
+Natural sample,44B1,Aubrey 2008,0.26,0.32,0.05,0.34,0.03,0,B,
+Natural sample,57A1,Aubrey 2008,0.22,0.3,0.09,0.35,0.05,0,B,
+Natural sample,150C 10mins,Amashukeli et al 2009,0.21,0.03,0.08,0.11,0.53,0.05,B,
+Natural sample,200C 0mins,Amashukeli et al 2011,0.19,0.15,0.12,0,0.5,0.04,B,
+Natural sample,200C 10mins,Amashukeli et al 2012,0.36,0.11,0.06,0.37,0.07,0.03,B,
+Natural sample,200C 30mins,Amashukeli et al 2013,0.35,0.29,0,0.24,0.03,0.09,B,
+Natural sample,250C 0mins,Amashukeli et al 2014,0.56,0.22,0.02,0,0.17,0.04,B,
+Natural sample,250C 10mins,Amashukeli et al 2015,0.41,0.36,0.02,0.05,0.02,0.13,B,
+Natural sample,250C 30mins,Amashukeli et al 2016,0.43,0.37,0.01,0,0.04,0.16,B,
+Natural sample,150C 5mins,Amashukeli et al 2018,0.07,0.07,0.07,0,0.71,0.07,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.06,0.04,0.02,0.04,0.84,0,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.16,0.03,0,0.08,0.73,0,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.03,0.05,0.03,0.08,0.79,0.02,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.03,0.03,0.02,0.04,0.86,0.02,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.02,0.03,0.04,0.05,0.78,0.07,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.02,0.04,0.06,0.05,0.81,0.02,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.75,0.01,0.01,0.01,0.21,0,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.11,0.12,0.04,0.09,0.53,0.12,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.29,0.06,0.1,0.04,0.5,0.01,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.05,0.19,0.05,0.05,0.62,0.03,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.35,0.04,0.07,0.03,0.48,0.02,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.07,0.19,0.08,0.16,0.37,0.13,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.28,0.33,0.04,0.07,0.22,0.06,B,
+Natural sample,Interstitial water ,Morris and Bale 1979,0.09,0.42,0.06,0.09,0.25,0.1,B,
+Natural sample,Sediment,Morris and Bale 1979,0,0.18,0.07,0.1,0.55,0.09,B,
+Natural sample,Sediment,Morris and Bale 1979,0.06,0.2,0.14,0.28,0.17,0.15,B,
+Natural sample,Sediment,Morris and Bale 1979,0.17,0.18,0.15,0.23,0.12,0.14,B,
+Natural sample,Ocean Water,Pocklington 1971,0.11,0.3,0.31,0,0.23,0.06,B,
+Natural sample,Ocean Water,Pocklington 1971,0.3,0.16,0,0.01,0.53,0,B,
+Natural sample,Ocean Water,Pocklington 1971,0.29,0.37,0.06,0,0,0.28,B,
+Natural sample,Ocean Water,Pocklington 1971,0.71,0.08,0.09,0,0,0.13,B,
+Natural sample,Ocean Water,Pocklington 1971,0.05,0.23,0.49,0,0,0.23,B,
+Natural sample,Ocean Water,Pocklington 1971,0,0.68,0.03,0.03,0,0.26,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.36,0.19,0.18,0.08,0.12,0.07,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.52,0.16,0.03,0.25,0.02,0.03,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.37,0.15,0.2,0.09,0.12,0.07,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.29,0.15,0.13,0.17,0.14,0.11,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.35,0.13,0.18,0.13,0.15,0.06,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.53,0.08,0.28,0.02,0.04,0.06,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.4,0.11,0.19,0.1,0.12,0.08,B,
+Natural sample,Hydrothermal vent,Takano et al 2004,0.41,0.11,0.2,0.08,0.11,0.09,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.37,0.21,0.16,0.07,0.09,0.11,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.32,0.17,0.13,0.1,0.11,0.17,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.53,0.12,0.22,0.02,0.03,0.08,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.35,0.15,0.19,0.07,0.14,0.1,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.35,0.13,0.2,0.13,0.13,0.06,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.35,0.13,0.16,0.1,0.16,0.1,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.36,0.13,0.2,0.12,0.16,0.04,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.35,0.14,0.08,0.17,0.08,0.18,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.41,0.11,0.27,0.08,0.09,0.04,B,
+Natural sample,Hydrothermal vent APSK 09 at Suiyo seamount,Takano et al 2004,0.44,0.08,0.23,0.11,0.1,0.04,B,
+Natural sample,Hydrothermal vent APSK 9 at Suiyo seamount,Takano et al 2004,0.34,0.14,0.23,0.12,0.1,0.07,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2005,0.32,0.24,0.16,0.06,0.11,0.11,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2006,0.63,0.1,0.1,0.04,0.1,0.04,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2007,0.59,0.15,0.14,0.05,0.05,0.02,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2008,0.54,0.1,0.07,0.13,0.11,0.04,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2009,0.44,0.11,0.05,0.14,0.12,0.13,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2010,0.43,0.14,0.07,0.17,0.14,0.05,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2011,0.38,0.23,0.1,0.12,0.08,0.08,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2012,0.42,0.11,0.19,0.11,0.11,0.06,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2013,0.29,0.13,0.23,0.13,0.14,0.08,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2014,0.34,0.18,0.21,0.04,0.18,0.05,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2015,0.37,0.1,0.21,0.04,0.18,0.1,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2016,0.4,0.08,0.18,0.13,0.12,0.09,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2017,0.36,0.09,0.21,0.03,0.15,0.17,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2018,0.29,0.19,0.1,0.01,0.03,0.39,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2019,0.41,0.21,0.15,0.18,0.01,0.04,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2020,0.3,0.15,0.21,0.06,0.16,0.12,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2021,0.13,0.06,0.09,0.06,0.62,0.04,B,
+Natural sample,Hydrothermal vent APSK 10 at Suiyo seamount,Takano et al 2022,0.38,0.14,0.18,0.07,0.15,0.09,B,
